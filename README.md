@@ -409,23 +409,6 @@ This project demonstrates practical implementation of:
 
 ---
 
-## 🔮 Future Improvements
-
-- [ ] Add exploratory data analysis (EDA)
-- [ ] Add feature importance visualization
-- [ ] Compare multiple classification algorithms
-- [ ] Perform hyperparameter tuning
-- [ ] Add cross-validation
-- [ ] Add ROC-AUC evaluation
-- [ ] Add confusion matrix visualization
-- [ ] Improve data ingestion using relative paths
-- [ ] Create a prediction interface using Streamlit
-- [ ] Deploy the model as a web application
-- [ ] Add automated testing
-- [ ] Add CI/CD using GitHub Actions
-
----
-
 ## ⚠️ Disclaimer
 
 This project is intended for **educational and demonstration purposes**.
