@@ -1,7 +1,7 @@
 [project]
 name = "candidateselectionpredictionmodel"
 version = "1.0.0"
-description = "Add your description here"
+description = "A Candidate selection ML Model"
 readme = "README.md"
 authors = [
     { name = "deveshdubey18", email = "314devesh11scic@gmail.com" }

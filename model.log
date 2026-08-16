@@ -1,0 +1,22 @@
+2026-08-17 00:20:38,008 - INFO - Machine Learning Model Started!!
+2026-08-17 00:20:38,131 - INFO - Data Ingestion : Done
+2026-08-17 00:20:38,132 - INFO - Data PreProcessing Started!!!
+2026-08-17 00:20:38,189 - INFO - Duplicates removed : Done
+2026-08-17 00:20:38,190 - INFO - Unwanted Columns Dropped : Done
+2026-08-17 00:20:38,196 - INFO - Target Columns Encoded : Done
+2026-08-17 00:20:38,197 - INFO - Data Split into Input Fratures : Done
+2026-08-17 00:20:38,200 - INFO - Data Split into Categorical & Numerical : Done
+2026-08-17 00:20:38,228 - INFO - Data Split into Training and Testing : Done
+2026-08-17 00:20:38,229 - INFO - Numerical PipeLine Created!!
+2026-08-17 00:20:38,229 - INFO - Categorical PipeLine Created!!
+2026-08-17 00:20:38,229 - INFO - Tranformer Created!!
+2026-08-17 00:20:38,412 - INFO - PipeLine Running successfully : Done
+2026-08-17 00:20:40,439 - INFO - Target Columns Balanced by SMOTE : Done
+2026-08-17 00:20:40,457 - INFO - PCA Applied : Done
+2026-08-17 00:20:40,457 - INFO - Pre Processing Done Successfully
+2026-08-17 00:20:40,458 - INFO - Random Forest Model Started!!
+2026-08-17 00:21:01,919 - INFO - Model Training : Done
+2026-08-17 00:21:02,250 - INFO - Model Testing : Done
+2026-08-17 00:21:02,251 - INFO - Model Accuracy : 0.8513333333333334
+2026-08-17 00:21:02,377 - INFO - Model Pickle File Generated!!
+2026-08-17 00:21:02,388 - INFO - Machine Learning Model Ended!!
